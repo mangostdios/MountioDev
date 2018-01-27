@@ -1,1 +1,1 @@
-Deploy  git@github.com:Mountio-dev/pages
+Deploy  git@github.com:MountioDev/Pages
